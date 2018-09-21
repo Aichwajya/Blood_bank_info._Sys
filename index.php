@@ -1,5 +1,3 @@
-
-<!DOCTYPE HTML>
 <html>
 <head>
 <title>Blood Bank informtion System(BBIS)</title>
